@@ -1,0 +1,1 @@
+This digital clock project utilizes HTML, CSS, and JavaScript to display the current time. Open index.html to view. JavaScript functions update the clock in real-time. Customize styles in style.css. Simply open the file in a web browser to see the clock in action!
